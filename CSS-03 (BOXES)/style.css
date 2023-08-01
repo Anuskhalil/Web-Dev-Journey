@@ -1,0 +1,56 @@
+/* *{
+
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hello{
+    background-color: red;
+    width: 500px;
+    height: 500px;
+}
+
+.hel h1{
+    background-color: grey;
+    width: 200px;
+    height: 200px;
+}
+
+img{
+    max-width: 500px;
+    min-height: 50px;
+}
+
+p.para{
+    overflow: hidden;
+}
+
+p.para1 {
+    overflow: scroll;
+} */
+
+.one{
+    background-color: blue;
+    color: white;
+    margin: 100px;   
+}
+
+.two{
+    background-color: rgb(94, 255, 0);
+    padding: 100px;
+}
+
+.three{
+    background-color: rgb(255, 0, 149);
+    /* border: none; */
+    padding: 20px 50px 50px 50px;
+    border-radius: 50px 20px 20px 50px;
+    border-color: green;
+    border-width: 20px;
+    /* border-top: none; */
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    border-style: groove;
+}
