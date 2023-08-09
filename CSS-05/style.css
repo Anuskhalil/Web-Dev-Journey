@@ -1,0 +1,50 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+ol{
+    /* list-style-type:lower-greek; */
+    /* list-style-image: url('./start1\ image.png'); */   
+}
+
+img{
+    width: 15px;
+}
+li{
+    margin: 10px 0px 0px 0px;
+}
+table{
+    border-spacing: 5px 15px;
+}
+
+th{
+    border: 1px solid black;
+    color: red;
+    background-color: yellow;
+    border-color:tomato;
+    padding: 20px;
+    border-style: dotted;
+    
+
+}
+
+/* td{
+    border: 1px solid black;
+    color: red;
+    background-color: yellow;
+
+    border-color:tomato;
+    padding: 20px;
+    border-style: dotted;
+}
+i{
+    position: relative;
+    left: -20px;
+    top: 2px;
+} */
+
+a{
+    cursor:grab;
+}

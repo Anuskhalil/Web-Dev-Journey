@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    background-color: blue;
+    color: white;
+    list-style: none;
+}
+.one{
+    background-color: grey;
+    width: 5rem;
+    height: 20vh;
+    position: fixed;
+    left: 85%;
+    bottom: 0;
+}
+.two{
+    background-color: rgb(161, 48, 48);
+    width: 90px;
+    height: 20vh;
+}
+.three{
+    background-color: rgb(22, 116, 92);
+    width: 90px;
+    height: 20vh;
+}
+
+#hel{
+    float:right;
+}
